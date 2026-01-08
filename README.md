@@ -36,4 +36,4 @@ The main goal of this assignment is to demonstrate **logical thinking, basic syn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/opunath26/problem-solving.git
